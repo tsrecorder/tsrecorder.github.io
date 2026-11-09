@@ -12,15 +12,16 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ts. Recorder # author name
   bio: >- # tell to the world
-    Minimalist Jekyll blog based on the Klisé theme, light and dark mode support, for documenting competitive Pokémon teams 
-    with breakdowns and usage tips. Source code on <a href="https://github.com/tsrecorder/tsrecorder.github.io" target="_blank" rel="noopener">github</a>.
+    Minimalist blog focused on documenting competitive Pokémon teams with breakdowns and usage tips.
+    Project built with Jekyll and based on the Klisé theme, with light and dark mode support.
+    Source code on <a href="https://github.com/tsrecorder/tsrecorder.github.io" target="_blank" rel="noopener">github</a>.
   username: tsrecorder # general username
   github: tsrecorder # github username
   twitter: tsrecorder2026 # twitter username
   instagram: tsrecorder2026 # instagram username
   bluesky: tsrecorder2026.bsky.social # bluesky username
   email: tsrecorder@proton.me # email adress
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/avatar.png # avatar image path
 
 # URL settings
 url: "https://tsrecorder.github.io" #
