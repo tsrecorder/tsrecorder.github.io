@@ -3,7 +3,7 @@ title: Ts. Recorder # site title
 description: >- # site description
   Competitive Pokémon teams, recorded.
 about: |- # site about
-  This project consists of a minimalist blog built with Jekyll and based on the <a href="https://github.com/piharpi/jekyll-klise" target="_blank">Klisé theme</a>, with light and dark mode support.  
+  This project consists of a minimalist blog built with Jekyll and hosted on Github Pages.  
   You can find this project's source code on <a href="https://github.com/tsrecorder/tsrecorder.github.io" target="_blank">Github</a>.
 lang: en-US # default lang
 timezone: Europe/Lisbon # set your timezone
