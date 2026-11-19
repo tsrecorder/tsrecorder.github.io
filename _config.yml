@@ -2,6 +2,9 @@
 title: Ts. Recorder # site title
 description: >- # site description
   Competitive Pokémon teams, recorded.
+about: |- # site about
+  This project consists of a minimalist blog built with Jekyll and based on the <a href="https://github.com/piharpi/jekyll-klise" target="_blank">Klisé theme</a>, with light and dark mode support.  
+  You can find this project's source code on <a href="https://github.com/tsrecorder/tsrecorder.github.io" target="_blank">Github</a>.
 lang: en-US # default lang
 timezone: Europe/Lisbon # set your timezone
 image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/
@@ -10,11 +13,12 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Ts. Recorder # author name
-  bio: >- # tell to the world
-    Minimalist blog focused on documenting competitive Pokémon teams with breakdowns and usage tips.
-    Project built with Jekyll and based on the Klisé theme, with light and dark mode support.
-    Source code on <a href="https://github.com/tsrecorder/tsrecorder.github.io" target="_blank" rel="noopener">github</a>.
+  name: r0da # author name
+  bio: |-
+    Hello, I'm r0da, a software developer and competitive Pokémon enthusiast.
+
+    I started this blog to document the teams shaping the metagame. Each post breaks down a popular team providing the Pokémon sets, the gameplan and common leads.  
+    I wanted a database of teams I could open right before a match to get a quick overview of the opposing team and its weaknesses. I hope you find it useful too!
   username: tsrecorder # general username
   github: tsrecorder # github username
   twitter: tsrecorder2026 # twitter username

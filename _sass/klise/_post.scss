@@ -91,7 +91,6 @@
     color: $text-link-blue;
     text-decoration: none;
     &[target="_blank"]::after {
-      content: " \2197";
       font-size: $small-font-size;
       line-height: 0;
       position: relative;
