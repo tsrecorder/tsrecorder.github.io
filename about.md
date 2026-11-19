@@ -10,4 +10,5 @@ comments: false
  
 {{ site.about | markdownify }}
 
-You can [report a bug](http://github.com/tsrecorder/tsrecorder.github.io/issues/new) if there is an broken link(s) or something else.
+You can [report a bug](http://github.com/tsrecorder/tsrecorder.github.io/issues/new) if there is an broken link(s) or something else.  
+You can also contact me at [tsrecorder@proton.me](mailto:tsrecorder@proton.me).
